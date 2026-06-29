@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Mihika Ahirwar — Developer Portfolio
 
-# Run and deploy your AI Studio app
+> A modern portfolio showcasing my journey in Computer Science, cybersecurity, frontend development, UI/UX design, and creative problem solving.
 
-This contains everything you need to run your app locally.
+🌍 **Live Website:** https://mihika-ahirwar.vercel.app
 
-View your app in AI Studio: https://ai.studio/apps/91c0e8b6-a338-496c-aaaa-27fd7d17e18d
+---
 
-## Run Locally
+## ✨ About
 
-**Prerequisites:**  Node.js
+This portfolio represents who I am as a developer and designer.
 
+It highlights my technical skills, projects, achievements, and interests while providing an interactive experience through clean design, smooth animations, and responsive layouts.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+As I continue learning and building, this portfolio grows with me.
+
+---
+
+## 🚀 Features
+
+- 🎨 Modern & Minimal UI
+- 📱 Fully Responsive Design
+- ⚡ Smooth Animations
+- 💻 Project Showcase
+- 👩‍💻 Skills & Tech Stack
+- 📄 Resume Section
+- 📬 Contact Information
+- 🌙 Dark Theme
+- 🚀 Fast Deployment on Vercel
